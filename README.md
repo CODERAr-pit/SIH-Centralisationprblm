@@ -1,5 +1,5 @@
 ﻿# SIH-Centralisationprblm
- # Centralized Department Query Management System (SIH 2025)
+ # Centralized Department Query Management System (SIH 2023)
 
 This project is developed as a solution for the **Smart India Hackathon (SIH)** problem focused on **centralized query handling** across various departments. The system allows users to submit queries, which are then routed to the respective department admins for resolution.
 ## 🛠️ Tech Stack
