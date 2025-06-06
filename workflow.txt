@@ -1,0 +1,2 @@
+user signup->user login->user query->get msg
+login deparment->show queries->give status checker and msg of status change to user.
