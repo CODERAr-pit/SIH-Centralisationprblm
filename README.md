@@ -54,9 +54,9 @@ This project solves the problem by:
 │
 ├── public/                       # Main logic and schemas
 │   ├── connection.js             # MongoDB database connection
-│   ├── mailer.js                 # Email utilities 
-│   ├── queryschema.js           # Mongoose schema for queries
-│   ├── userschema.js            # Mongoose schema for users
+│   ├── mailer.js                 # Email utilities
+│   ├── queryschema.js            # Mongoose schema for queries
+│   ├── userschema.js             # Mongoose schema for users
 │   └── user.js                   # User API routes / logic
 │
 ├── node_modules/                 # Installed npm packages
@@ -69,6 +69,7 @@ This project solves the problem by:
 ├── package-lock.json             # Exact versions of installed packages
 ├── README.md                     # Project description and instructions
 └── workflow.txt                  # Notes or plan for project flow
+
 
 
 ## 🚀 Future Improvements
